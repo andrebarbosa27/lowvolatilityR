@@ -24,26 +24,19 @@ Para executar este projeto,
 ## Screenshots
 
 ### Comparação de Estratégias de Trade
-![Comparação de Estratégias de Trade](https://github.com/andrebarbosa27/lowvolatility/blob/master/Compara%C3%A7%C3%A3o%20de%20Estrat%C3%A9gias%20de%20Trade.png)
+![Comparação de Estratégias de Trade](https://github.com/andrebarbosa27/lowvolatilityR/blob/master/Compara%C3%A7%C3%A3o%20de%20Estrat%C3%A9gias%20de%20Trade.png)
 
 ### Retorno Cumulativo e Drawdowns
-![Cumulative Returns e Drawdowns](https://github.com/andrebarbosa27/lowvolatility/blob/master/Cumulative%20returns%20e%20drawdowns.png)
+![Cumulative Returns e Drawdowns](https://github.com/andrebarbosa27/lowvolatilityR/blob/master/Retorno%20Acumulado%20e%20Drawdown.png)
 
 ### Retorno das Estratégias ao Longo do Tempo
 ![Retorno das Estratégias ao Longo do Tempo](https://github.com/andrebarbosa27/lowvolatility/blob/master/Retorno%20das%20estrat%C3%A9gias%20ao%20longo%20do%20tempo.png)
 
 ### Média Móvel de Retorno
-![Rolling Mean](https://github.com/andrebarbosa27/lowvolatility/blob/master/Rolling%20Mean.png)
+![Rolling Mean](https://github.com/andrebarbosa27/lowvolatilityR/blob/master/Rolling%20Retorno.png)
 
 ### Desvio Padrão Móvel
-![Rolling Standard Deviation](https://github.com/andrebarbosa27/lowvolatility/blob/master/Rolling%20std.png)
-
-## Contribuições
-Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Contato
-Para mais informações, entre em contato com [andr642010@hotmail.com].
-
+![Rolling Standard Deviation](https://github.com/andrebarbosa27/lowvolatilityR/blob/master/Rolling%20Std.png)
 
 ## Geração e Exportação de Gráficos
 O script R incluído neste repositório foi modificado para gerar e salvar automaticamente uma série de gráficos. Estes gráficos são salvos como arquivos PNG no diretório de trabalho após a execução do script.
@@ -56,3 +49,8 @@ O script R incluído neste repositório foi modificado para gerar e salvar autom
 ### Detalhes Específicos dos Gráficos
 Cada gráfico salvo fornece insights visuais importantes relacionados ao estudo de estratégias de baixa volatilidade no mercado acionário brasileiro. Eles incluem análises temporais, comparações de desempenho e outras métricas relevantes para a pesquisa.
 
+## Contribuições
+Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+Para mais informações, entre em contato com andr642010@hotmail.com.
