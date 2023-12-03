@@ -3,6 +3,9 @@
 ## Descrição
 Este repositório contém a implementação e análise do estudo "Backtesting do Efeito de Volatilidade em Portfólios no Mercado Acionário Brasileiro entre 2000 e 2020" de André Luiz Barbosa de Sousa. O projeto investiga estratégias de baixa volatilidade no mercado de ações brasileiro, utilizando dados de 2000 a 2020 para fornecer insights sobre o desempenho dessas estratégias em comparação com estratégias neutras e o índice Ibovespa.
 
+## Autoria
+O código em R foi desenvolvido pelo Prof. Dr. Julio Fernando Costa Santos
+
 ## Tecnologias Utilizadas
 - R
 - dplyr: Para manipulação de dados
